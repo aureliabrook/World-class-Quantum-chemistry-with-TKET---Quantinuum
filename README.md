@@ -11,9 +11,9 @@ Womanium Quantum Hackathon 2022
   * Github ID: 
   * Discord ID:
 * Nick Labranche 
-  * Contact email:
-  * Github ID: 
-  * Discord ID:
+  * Contact email: npl248@nyu.edu
+  * Github ID: faithless426
+  * Discord ID: faithless426#3773
 * Alexa Lachmann 
   * Contact email:
   * Github ID: 
