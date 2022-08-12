@@ -3,9 +3,9 @@ Womanium Quantum Hackathon 2022
 
 #### Team Members:
 * Aurelia Brook 
-  * Contact email:
-  * Github ID: 
-  * Discord ID:
+  * Contact email: aureliabrook@nyu.edu
+  * Github ID: aureliabrook
+  * Discord ID: beefcake barnacle#6542
 * Claire Hornburg 
   * Contact email:
   * Github ID: 
