@@ -6,7 +6,7 @@ Womanium Quantum Hackathon 2022
   * Contact email: aureliabrook@nyu.edu
   * Github ID: aureliabrook
   * Discord ID: beefcake barnacle#6542
-* Nick Labranche 
+* Nick Labranche - Pitch Presenter
   * Contact email: npl248@nyu.edu
   * Github ID: faithless426
   * Discord ID: faithless426#3773
