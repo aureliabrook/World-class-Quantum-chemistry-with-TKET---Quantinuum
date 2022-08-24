@@ -18,4 +18,4 @@ A more digestible version of our hack will be presented at the Pitch Competition
 
 #### Code Submission
 All levels of the problem were answered, and were labeled according to the titles given in the problem prompt. Each submission is in the form of a python notebook so one does not need to run each of the cells individually in order to see the results we got. Results were left in the cells. A separate folder with the coupling maps and details of the chips used is also provided so onlookers can have an easier time accessing information about the chips we used.
-##### Note: Aurelia's IBM account was used to access quantum chips, so her API was manually deleted before upload of the code. If someone wanted to run the code on their own without any modifications, they'd need their own account and access to the same chips we used.
+##### Note: Aurelia's IBM account was used to access quantum chips, so her token was manually deleted before upload of the code. If someone wanted to run the code on their own without any modifications, they'd need their own account and access to the same chips we used.
